@@ -2,6 +2,7 @@
 
 ## Description
 Simple number generator game implemented in Python.
+This project made for educational purposes based on https://hyperskill.org/ course.
 
 ## Installation
 ```sh
